@@ -44,7 +44,7 @@ npm start
 4. Use the "Transfer SOL" button to transfer SOL tokens to another account. Make sure you have both sender and receiver keys before proceeding.
 
 ## Author 
-Mitali Sinha
+Parth Nath Chauhan
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
