@@ -150,6 +150,7 @@ export default function App() {
       console.log('Receiver Balance:', (await connection.getBalance(receiverPublicKey)) / LAMPORTS_PER_SOL);
     } catch (error) {
       console.error('Error transferring SOL:', error);
+      console.log("game error")
     }
   };
 
